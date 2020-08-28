@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffbbc9c2461b914b90e90462f5db8f8, type: 3}
+  m_Name: WoodenPlank
+  m_EditorClassIdentifier: 
+  requiredMaterials:
+  - type: 0
+    count: 1
+    materialPrefab: {fileID: 0}
+  prefab: {fileID: 7725010191483593644, guid: 3dff0b8096867304296be0b51c1fc544, type: 3}

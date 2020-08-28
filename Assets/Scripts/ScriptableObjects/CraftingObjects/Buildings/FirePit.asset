@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffbbc9c2461b914b90e90462f5db8f8, type: 3}
+  m_Name: FirePit
+  m_EditorClassIdentifier: 
+  requiredMaterials:
+  - type: 5
+    count: 4
+    materialPrefab: {fileID: 4075978660195577788, guid: 178ec63ea71c0a649988c3cbc64fc4b8,
+      type: 3}
+  prefab: {fileID: 1465443980787019802, guid: a0d471551e45e974f9f3099e5e72208f, type: 3}
+  Title: Fire Pit
+  image: {fileID: 21300000, guid: b329cf3e1229a3c4ab6890da594bb3ce, type: 3}

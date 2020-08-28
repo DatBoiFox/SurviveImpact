@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffbbc9c2461b914b90e90462f5db8f8, type: 3}
+  m_Name: WeaponCraftingBox
+  m_EditorClassIdentifier: 
+  requiredMaterials:
+  - type: 1
+    count: 3
+    materialPrefab: {fileID: 2725009543967499545, guid: fe9b4188b589571408e67888e46a22db,
+      type: 3}
+  prefab: {fileID: 7930290905587776301, guid: 74794e51b75b63a4c82eeafe453ff8c3, type: 3}
+  Title: Weapons Crafting
+  image: {fileID: 21300000, guid: 759e4fc4f7770c04da2768a700ecbccc, type: 3}
